@@ -1,0 +1,1 @@
+ALTER TABLE `owned_vehicles` ADD `trailerdata` LONGTEXT NOT NULL;
